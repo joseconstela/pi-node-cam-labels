@@ -5,7 +5,7 @@
 
 For more information about the Google Cloud Vision API go to https://github.com/googleapis/nodejs-vision
 
-## Using Linux / Ubuntu?
+## Using Debian based distro?
 
 Try the following command to install Festival with a default voice:
 
